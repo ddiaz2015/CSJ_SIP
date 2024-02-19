@@ -90,7 +90,7 @@ Comantario _Parte principal del comentario_
 * Observación2
 * Observación3
 
-[General Info](#general-info)
+(#general-info)
 
 info
 3. **Notas**
