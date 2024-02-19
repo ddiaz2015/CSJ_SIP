@@ -91,6 +91,7 @@ Comantario _Parte principal del comentario_
 * Observación3
 
 #general-info
+
 info
 3. **Notas**
 Notas _Parte principal de la nota_
