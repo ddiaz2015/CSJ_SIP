@@ -32,23 +32,22 @@ Estructura sugerida un archivo README.md
 Corte Suprema de Justicia
 ### Colaboradores
 ***
-Listado de las versiones del proyecto con la siguiente información:
-Profesor Mikel Escobar: Regional Consultant
+Guillermo Lopez
+Daniel Díaz
 
 ### Control de versiones
 ***
 Escribe el detalle de las versiones del proyecto
-* Version 1.0.0: Version inicial del proyecto
+* Version 1.0.0: Version inicial 
 
 
 ### Estructura de la aplicación
 ***
 Escribe la estructura de directorios del proyecto
-* CSJ_SIP
-  * Desa
-  * Prueba
-  * Producccion
-   
+* Componente1
+  * Categoria1
+    * Objeto1
+    * Objeto2
 * Componente2
   * Categoria2
     * Objeto3
