@@ -5,7 +5,7 @@ Classroom
 DevSecOps - Cultura y Práctica
 Development Frameworks
 Anuncio
-Jhony Mikel Escobar Galdámez
+Alumno: Daniel Díaz
 •
 16:34
 Estructura sugerida un archivo README.md
@@ -88,7 +88,7 @@ Comantario _Parte principal del comentario_
 * Observación2
 * Observación3
 
-#general-info
+
 info
 3. **Notas**
 Notas _Parte principal de la nota_
