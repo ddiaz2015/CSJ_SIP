@@ -14,9 +14,9 @@ Estructura sugerida un archivo README.md
 
 README.txt
 Texto
-Comentarios de la clase
+Prueba de creacion de proyecto en GitHub
 
-Añade un comentario de clase…
+Modificando archivo Readme
 
 Estructura sugerida un archivo README.md
 ## Indice
@@ -29,27 +29,26 @@ Estructura sugerida un archivo README.md
 ## Generalidades del proyecto
 ### Descripción
 ***
-Escribe la descripción del proyecto
+Corte Suprema de Justicia
 ### Colaboradores
 ***
 Listado de las versiones del proyecto con la siguiente información:
-> Mikel Escobar: Regional Consultant
+Profesor Mikel Escobar: Regional Consultant
 
 ### Control de versiones
 ***
 Escribe el detalle de las versiones del proyecto
 * Version 1.0.0: Version inicial del proyecto
-* Version 1.0.1: Describir el cambio menor del proyecto
-* Version 1.1.0: Describir el cambio significativo del proyecto
-* Version 2.0.0: Describir el cambio de alcance del proyecto
+
 
 ### Estructura de la aplicación
 ***
 Escribe la estructura de directorios del proyecto
-* Componente1
-  * Categoria1
-    * Objeto1
-    * Objeto2
+* CSJ_SIP
+  * Desa
+  * Prueba
+  * Producccion
+   
 * Componente2
   * Categoria2
     * Objeto3
@@ -90,7 +89,6 @@ Comantario _Parte principal del comentario_
 * Observación2
 * Observación3
 
-(#general-info)
 
 info
 3. **Notas**
